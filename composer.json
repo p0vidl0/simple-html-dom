@@ -5,6 +5,7 @@
     "homepage": "http://p0vidl0.info/",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0-dev",
     "require": {
         "php": ">=5.2.4"       
     }
