@@ -5,5 +5,9 @@
     "homepage": "http://p0vidl0.info/",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0-dev"
+    "version": "1.0.0-dev",
+    "autoload": {
+        "classmap":["simple_html_dom.php"],
+        "files":["simple_html_dom.php"]
+    }
 }
