@@ -2,7 +2,7 @@
     "name": "p0vidl0/simple_html_dom",
     "description": "Just a Simple HTML DOM library fork.",
     "keywords": ["dom", "html", "php"],
-    "homepage": "http://p0vidl0.info/",
+    "homepage": "http://sourceforge.net/projects/simplehtmldom/",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0-dev",
